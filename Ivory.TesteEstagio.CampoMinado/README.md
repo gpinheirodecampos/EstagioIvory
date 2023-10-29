@@ -7,7 +7,7 @@ Além disso, abaixo exponho em forma de texto o passo a passo do programa, expli
 ## Passo a passo
 A classe `ResolveCampo` é criada com o objetivo de armazenar todas as propriedades, métodos e funções necessárias para a análise de cada casa do Tabuleiro do Campo Minado.
 
-Primeiro, instanciamos a classe utilizando seu construtor e passando como parâmetro o tabuleiro pré-estabelecido na classe `CampoMinado`.
+Primeiro, instanciamos a classe utilizando seu construtor e passando como argumento o tabuleiro pré-estabelecido na classe `CampoMinado`.
 
 O construtor atribui à nova string tabuleiro o valor recebido como parâmetro e chama o método `LimpaTabuleiro`, que tem como principal objetivo preparar o novo tabuleiro para popular a matriz que iremos criar.
 
